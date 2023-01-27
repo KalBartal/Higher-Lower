@@ -2,7 +2,22 @@
 
 This is my coding challenge submission for day #14 of the 100 Days of Code: The Complete Python Pro Bootcamp, instructor-led training.
 
-This application compares the instagram accounts of verious celebrities and organisations in terms of followers. The user is to guess which account has got more followers. On correct guess the score is recorded and the correctly guessed account is compared to another accont. Incorrect guess ends the game and the final score is displayed.
+Higher Lower is an interactive game that compares the Instagram accounts of various celebrities and organizations in terms of followers. The user is asked to guess which account has more followers. If the user guesses correctly, their score is recorded and the correctly guessed account is compared to another account. An incorrect guess ends the game and the final score is displayed.
+
+## Gameplay
+
+The game begins by displaying two accounts, A and B. The user is asked to guess which account has more followers. If the user guesses correctly, their score is recorded and the correctly guessed account is compared to another account. An incorrect guess ends the game and the final score is displayed.
+
+## Features
+
+- Easy to use interface
+- Compare accounts from different countries
+- Keep track of your score
+- Fun and challenging gameplay
+
+## Requirements
+
+- Python 3.7+
 
 ## Usage
 
